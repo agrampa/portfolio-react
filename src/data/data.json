@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Momentus - Front End",
+    "deployedLink": "https://momentus-frontend.herokuapp.com/#!/join#signup ",
+    "repoLink": "https://github.com/MomentUs-401/MomentUs-401-Front-End",
+    "deployDate": "06/23/2017",
+    "description": "User-facing front end for creating and revisiting memories based on geographical location. This project was inspired by the back-stories behind locks left on bridges in Paris. Built using Angular 1, Webpack, Karma, Mocha/ Chai"
+  },
+  {
+    "title": "Momentus - Back End",
+    "deployedLink": "",
+    "repoLink": "https://github.com/MomentUs-401/MomentUs-401-Back-End",
+    "deployDate": "06/23/2017",
+    "description": "RESTful API for front end, which allows users to create, edit, and delete memories. Sign-up, sign-in, and logout functionality built using basic auth and bearer auth. Built using Node.js, Mongo DB, Mocha/ Chai, AWS, and Express Middleware."
+  },
+  {
+    "title": "Narratus - Front End",
+    "deployedLink": "narratus.io",
+    "repoLink": "https://github.com/TheLiterati/Narratus-Angular",
+    "deployDate": "",
+    "description": "Narratus is a collaborative writing application that allows a writer to author a round-robin short story, and allow other users to propose continuations. The original author will then curate the submissions, choosing the best [or most interesting] submissions, and appending them to the story. This front end was written with a teammate from the back end project"
+  },
+  {
+    "title": "Narratus - Back End",
+    "deployedLink": "",
+    "repoLink": "github.com/TheLiterati/Narratus-JS ",
+    "deployDate": "05/19/2017",
+    "description": "Narrutus is a collaborative writing app that allows users to initiate a theme-based short story and for other users to contribute to the story sequentially. With this RESTful API, users can sign-up and sign-in, read and subscribe to short stories, create and moderate short stories, and contribute to other short stories. Users who do not sign-up with an account can only read stories."
+  },
+  {
+    "title": "The Tune Squad",
+    "deployedLink": "https://thetunesquad.herokuapp.com/",
+    "repoLink": "github.com/thetunesquad/thetunesquad",
+    "deployDate": "",
+    "description": "Note: Deployed Site Currently Under Construction"
+  },
+  {
+    "title": "Adventure Fellows",
+    "deployedLink": "https://loganabsher.github.io/Adventure-Fellows/",
+    "repoLink": "",
+    "deployDate": "01/27/2017",
+    "description": "Turn-based adventure game built over four days as the culmination project of Code 201 course"
+  },
+  {
+    "title": "About Me",
+    "deployedLink": "https://agrampa.github.io/About-Me/",
+    "repoLink": "",
+    "deployDate": "01/06/2017",
+    "description": "This is my first project as a student. It includes a guessing game with hints and a list of my favorite recipes."
+  }
+]
